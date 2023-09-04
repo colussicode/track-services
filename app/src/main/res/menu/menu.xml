@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/icon_home"
+        android:title="@string/home"
+        android:icon="@drawable/icon_home"/>
+
+    <item
+        android:id="@+id/icon_paid"
+        android:title="@string/paid"
+        android:icon="@drawable/icon_paid"
+        />
+
+    <item
+        android:id="@+id/icon_unpaid"
+        android:title="@string/unpaid"
+        android:icon="@drawable/icon_unpaid"/>
+</menu>
